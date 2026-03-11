@@ -1,10 +1,10 @@
-# 👋 Gary | Pursuit L2 Portfolio
+# Gary | Pursuit L2 Portfolio
 
 > Full-stack developer portfolio showcasing projects built during Pursuit L2 — spanning web apps, React, Node/Express APIs, and Python. Clean code. Real builds. Continuous growth.
 
 ---
 
-## 🗂 Table of Contents
+## Table of Contents
 - [About](#about)
 - [Projects](#projects)
 - [Skills](#skills)
@@ -28,7 +28,7 @@ A feature-engineering project built on top of the YouTube Shorts platform. I des
 
 - **Stack:** HTML · CSS · JavaScript
 - **Focus:** Feature addition, video tooling, UX
-- 🔗 [View Repository](https://github.com/G3RRYGL3Z/YouTube-shorts-clone)
+- [View Repository](https://github.com/G3RRYGL3Z/YouTube-shorts-clone)
 
 ---
 
@@ -39,7 +39,7 @@ A renewable energy application targeting the **Smart Grid Infrastructure** secto
 
 - **Stack:** Full-Stack · AI / ML · Smart Grid Technologies
 - **Focus:** Renewable energy, infrastructure, AI decision-making
-- 🔗 [View Repository](https://github.com/ibrahimadiallo-byte/AI-Grid-Infrastructure)
+- [View Repository](https://github.com/ibrahimadiallo-byte/AI-Grid-Infrastructure)
 
 ---
 
@@ -50,7 +50,7 @@ A UI overhaul of the existing Pursuit learning agent dashboard. My team rebuilt 
 
 - **Stack:** React · UI/UX · Dashboard Design
 - **Focus:** UI redesign, usability, notifications
-- 🔗 [View Repository](https://github.com/G3RRYGL3Z/Pursuit-2.1)
+- [View Repository](https://github.com/G3RRYGL3Z/Pursuit-2.1)
 
 ---
 
@@ -61,7 +61,7 @@ A deep architectural study and rebuild of **Zoom** — the goal was to fully dec
 
 - **Stack:** Full-Stack · WebRTC · Real-Time Communication
 - **Focus:** SaaS architecture, real-time video, reverse engineering
-- 🔗 [View Repository](https://github.com/jonelrichardson-spec/zoom-clone)
+- [View Repository](https://github.com/jonelrichardson-spec/zoom-clone)
 
 ---
 
@@ -72,7 +72,7 @@ A personal finance application built to solve the problem of subscription overlo
 
 - **Stack:** Full-Stack · Node.js · Express · Database
 - **Focus:** Personal finance, data management, user savings
-- 🔗 [View Repository](https://github.com/OasisView/subscription-sniper)
+- [View Repository](https://github.com/OasisView/subscription-sniper)
 
 ---
 
@@ -100,7 +100,7 @@ The portfolio website (`index.html`) can be deployed via **GitHub Pages**:
 
 ## Connect
 
-- 🐙 GitHub: [@G3RRYGL3Z](https://github.com/G3RRYGL3Z)
+- GitHub: [@G3RRYGL3Z](https://github.com/G3RRYGL3Z)
 
 ---
 
