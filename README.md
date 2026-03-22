@@ -1,107 +1,90 @@
-# Gary | Pursuit L2 Portfolio
+Gary | Pursuit L2 Portfolio
 
-> Full-stack developer portfolio showcasing projects built during Pursuit L2 — spanning web apps, React, Node/Express APIs, and Python. Clean code. Real builds. Continuous growth.
+Full-stack developer portfolio showcasing projects built during Pursuit L2 — spanning web apps, React, Node/Express APIs, and Python. Clean code. Real builds. Continuous growth.
 
----
 
-## Table of Contents
-- [About](#about)
-- [Projects](#projects)
-- [Skills](#skills)
-- [How to Navigate](#how-to-navigate)
-- [Connect](#connect)
+Table of Contents
 
----
+About
+Projects
+Skills
+How to Navigate
+Connect
 
-## About
 
-I'm Gary, a full-stack developer trained at **Pursuit L2** — a rigorous fellowship focused on building job-ready engineers through project-based, collaborative learning. The projects in this portfolio represent real problems tackled with real code: from adding new features to existing platforms, to architecting AI-powered energy tools, to cloning production-level SaaS applications from scratch.
+About
+I'm Gary, a full-stack developer trained at Pursuit L2 — a rigorous fellowship focused on building job-ready engineers through project-based, collaborative learning. The projects in this portfolio represent real problems tackled with real code: from adding new features to existing platforms, to architecting AI-powered energy tools, to cloning production-level SaaS applications from scratch.
 
----
+Projects
+01 · YouTube Shorts Clone
+Role: Team Collaborator
+A feature-engineering project built on top of the YouTube Shorts platform. I designed and implemented a clipping tool that allows users to clip 3–5 second highlights from any Short and save or share them with friends and family.
 
-## Projects
+Stack: HTML · CSS · JavaScript
+Focus: Feature addition, video tooling, UX
+View Repository
 
-### 01 · YouTube Shorts Clone
-**Role:** Team Collaborator
 
-A feature-engineering project built on top of the YouTube Shorts platform. I designed and implemented a **clipping tool** that allows users to clip 3–5 second highlights from any Short and save or share them with friends and family.
+02 · AI-Grid Orchestrator
+Role: Team Collaborator (Authorized)
+A renewable energy application targeting the Smart Grid Infrastructure sector. The app acts as an intelligent "dimmer switch" for the power grids of Texas and Maine — designed to prevent blackouts, reduce natural gas dependency, and lower energy costs for citizens.
 
-- **Stack:** HTML · CSS · JavaScript
-- **Focus:** Feature addition, video tooling, UX
-- [View Repository](https://github.com/G3RRYGL3Z/YouTube-shorts-clone)
+Stack: Full-Stack · AI / ML · Smart Grid Technologies
+Focus: Renewable energy, infrastructure, AI decision-making
+View Repository
 
----
 
-### 02 · AI-Grid Orchestrator
-**Role:** Team Collaborator (Authorized)
+03 · Pursuit Agent 2.1
+Role: Team Collaborator
+A UI overhaul of the existing Pursuit learning agent dashboard. My team rebuilt the interface to feature expandable weekday cards — each opening into a detailed view showing all tasks and assignments due for that day — plus a notification system alerting users to any missing or overdue work.
 
-A renewable energy application targeting the **Smart Grid Infrastructure** sector. The app acts as an intelligent "dimmer switch" for the power grids of Texas and Maine — designed to prevent blackouts, reduce natural gas dependency, and lower energy costs for citizens.
+Stack: React · UI/UX · Dashboard Design
+Focus: UI redesign, usability, notifications
+View Repository
 
-- **Stack:** Full-Stack · AI / ML · Smart Grid Technologies
-- **Focus:** Renewable energy, infrastructure, AI decision-making
-- [View Repository](https://github.com/ibrahimadiallo-byte/AI-Grid-Infrastructure)
 
----
+04 · Zoom Clone
+Role: Team Collaborator (Authorized)
+A deep architectural study and rebuild of Zoom — the goal was to fully deconstruct a successful market-leading SaaS application and reconstruct it to understand how it works. The core deliverable: a fully functional 1-on-1 video calling feature using real-time web technologies.
 
-### 03 · Pursuit Agent 2.1
-**Role:** Team Collaborator
+Stack: Full-Stack · WebRTC · Real-Time Communication
+Focus: SaaS architecture, real-time video, reverse engineering
+View Repository
 
-A UI overhaul of the existing Pursuit learning agent dashboard. My team rebuilt the interface to feature **expandable weekday cards** — each opening into a detailed view showing all tasks and assignments due for that day — plus a **notification system** alerting users to any missing or overdue work.
 
-- **Stack:** React · UI/UX · Dashboard Design
-- **Focus:** UI redesign, usability, notifications
-- [View Repository](https://github.com/G3RRYGL3Z/Pursuit-2.1)
+05 · Subscription Sniper
+Role: Team Collaborator (Authorized)
+A personal finance application built to solve the problem of subscription overload. Subscription Sniper tracks all of a user's active subscriptions, surfaces unused ones, and helps them cancel services they no longer need — saving them real money every month.
 
----
+Stack: Full-Stack · Node.js · Express · Database
+Focus: Personal finance, data management, user savings
+View Repository
 
-### 04 · Zoom Clone
-**Role:** Team Collaborator (Authorized)
 
-A deep architectural study and rebuild of **Zoom** — the goal was to fully deconstruct a successful market-leading SaaS application and reconstruct it to understand how it works. The core deliverable: a fully functional **1-on-1 video calling** feature using real-time web technologies.
+06 · PartsDex
+Role: Team Collaborator
+A PWA-first mobile tool built for the trades — plumbing, heating, boiler, and HVAC. PartsDex allows users to identify parts on-site using their phone camera, then pulls up detailed information including compatibility, use cases, essential functions, available materials, and sizing. A picture of each part accompanies its information page. Designed for newcomers and veterans alike to make part identification faster and error-free in the field.
 
-- **Stack:** Full-Stack · WebRTC · Real-Time Communication
-- **Focus:** SaaS architecture, real-time video, reverse engineering
-- [View Repository](https://github.com/jonelrichardson-spec/zoom-clone)
+Stack: React · PWA · Camera API · Mobile-First Design
+Focus: Blue collar tech, part identification, field usability
+View Repository
 
----
 
-### 05 · Subscription Sniper
-**Role:** Team Collaborator (Authorized)
+Skills
+CategoryTechnologiesFrontendHTML · CSS · JavaScript · ReactBackendNode.js · Express · REST APIsOtherPython · Git · GitHub · AgileSoft SkillsTeam Collaboration · Problem Solving · Communication
 
-A personal finance application built to solve the problem of subscription overload. **Subscription Sniper** tracks all of a user's active subscriptions, surfaces unused ones, and helps them cancel services they no longer need — saving them real money every month.
+How to Navigate
+Each project listed above links to its own GitHub repository. For projects where I am an authorized collaborator (not the repo owner), the link points directly to the team repository where my contributions are recorded in the commit history.
+The portfolio website (index.html) can be deployed via GitHub Pages:
 
-- **Stack:** Full-Stack · Node.js · Express · Database
-- **Focus:** Personal finance, data management, user savings
-- [View Repository](https://github.com/OasisView/subscription-sniper)
+Go to your repo Settings → Pages
+Set source to main branch, / (root)
+Your portfolio will be live at https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio
 
----
 
-## Skills
+Connect
 
-| Category | Technologies |
-|---|---|
-| **Frontend** | HTML · CSS · JavaScript · React |
-| **Backend** | Node.js · Express · REST APIs |
-| **Other** | Python · Git · GitHub · Agile |
-| **Soft Skills** | Team Collaboration · Problem Solving · Communication |
+GitHub: @G3RRYGL3Z
 
----
 
-## How to Navigate
-
-Each project listed above links to its own GitHub repository. For projects where I am an **authorized collaborator** (not the repo owner), the link points directly to the team repository where my contributions are recorded in the commit history.
-
-The portfolio website (`index.html`) can be deployed via **GitHub Pages**:
-1. Go to your repo **Settings → Pages**
-2. Set source to `main` branch, `/ (root)`
-3. Your portfolio will be live at `https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio`
-
----
-
-## Connect
-
-- GitHub: [@G3RRYGL3Z](https://github.com/G3RRYGL3Z)
-
----
-
-*Built with purpose during Pursuit L2 · 2026*
+Built with purpose during Pursuit L2 · 2026
