@@ -101,11 +101,8 @@ A PWA-first mobile tool built for the trades — plumbing, heating, boiler, and 
 ## How to Navigate
 
 Each project listed above links to its own GitHub repository. For projects where I am an **authorized collaborator** (not the repo owner), the link points directly to the team repository where my contributions are recorded in the commit history.
+https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio
 
-The portfolio website (`index.html`) can be deployed via **GitHub Pages**:
-1. Go to your repo **Settings → Pages**
-2. Set source to `main` branch, `/ (root)`
-3. Your portfolio will be live at `https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio`
 
 ---
 
