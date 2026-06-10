@@ -1,10 +1,11 @@
-# Gary | Pursuit L2 Portfolio
+# Gary | Pursuit L2/L3 Portfolio
 
-> Full-stack developer portfolio showcasing projects built during Pursuit L2 — spanning web apps, React, Node/Express APIs, and Python. Clean code. Real builds. Continuous growth.
+> Full-stack developer portfolio showcasing projects built during Pursuit L2/L3 — spanning web apps, React, Node/Express APIs, Python, TypeScript, and open-source contributions. Clean code. Real builds. Continuous growth.
 
 ---
 
 ## Table of Contents
+
 - [About](#about)
 - [Projects](#projects)
 - [Skills](#skills)
@@ -15,13 +16,14 @@
 
 ## About
 
-I'm Gary, a full-stack developer trained at **Pursuit L2** — a rigorous fellowship focused on building job-ready engineers through project-based, collaborative learning. The projects in this portfolio represent real problems tackled with real code: from adding new features to existing platforms, to architecting AI-powered energy tools, to cloning production-level SaaS applications from scratch.
+I'm Gary, a full-stack developer trained at **Pursuit L2/L3** — a rigorous fellowship focused on building job-ready engineers through project-based, collaborative learning. The projects in this portfolio represent real problems tackled with real code: from adding new features to existing platforms, to architecting AI-powered energy tools, to contributing to production open-source codebases.
 
 ---
 
 ## Projects
 
 ### 01 · YouTube Shorts Clone
+
 **Role:** Team Collaborator
 
 A feature-engineering project built on top of the YouTube Shorts platform. I designed and implemented a **clipping tool** that allows users to clip 3–5 second highlights from any Short and save or share them with friends and family.
@@ -33,6 +35,7 @@ A feature-engineering project built on top of the YouTube Shorts platform. I des
 ---
 
 ### 02 · AI-Grid Orchestrator
+
 **Role:** Team Collaborator (Authorized)
 
 A renewable energy application targeting the **Smart Grid Infrastructure** sector. The app acts as an intelligent "dimmer switch" for the power grids of Texas and Maine — designed to prevent blackouts, reduce natural gas dependency, and lower energy costs for citizens.
@@ -44,6 +47,7 @@ A renewable energy application targeting the **Smart Grid Infrastructure** secto
 ---
 
 ### 03 · Pursuit Agent 2.1
+
 **Role:** Team Collaborator
 
 A UI overhaul of the existing Pursuit learning agent dashboard. My team rebuilt the interface to feature **expandable weekday cards** — each opening into a detailed view showing all tasks and assignments due for that day — plus a **notification system** alerting users to any missing or overdue work.
@@ -55,6 +59,7 @@ A UI overhaul of the existing Pursuit learning agent dashboard. My team rebuilt 
 ---
 
 ### 04 · Zoom Clone
+
 **Role:** Team Collaborator (Authorized)
 
 A deep architectural study and rebuild of **Zoom** — the goal was to fully deconstruct a successful market-leading SaaS application and reconstruct it to understand how it works. The core deliverable: a fully functional **1-on-1 video calling** feature using real-time web technologies.
@@ -66,6 +71,7 @@ A deep architectural study and rebuild of **Zoom** — the goal was to fully dec
 ---
 
 ### 05 · Subscription Sniper
+
 **Role:** Team Collaborator (Authorized)
 
 A personal finance application built to solve the problem of subscription overload. **Subscription Sniper** tracks all of a user's active subscriptions, surfaces unused ones, and helps them cancel services they no longer need — saving them real money every month.
@@ -77,9 +83,10 @@ A personal finance application built to solve the problem of subscription overlo
 ---
 
 ### 06 · PartsDex
+
 **Role:** Team Collaborator
 
-A PWA-first mobile tool built for the trades — plumbing, heating, boiler, and HVAC. PartsDex allows users to identify parts on-site using their phone camera, then pulls up detailed information including compatibility, use cases, essential functions, available materials, and sizing. A picture of each part accompanies its information page. Designed for newcomers and veterans alike to make part identification faster and error-free in the field.
+A PWA-first mobile tool built for the trades — plumbing, heating, boiler, and HVAC. PartsDex allows users to identify parts on-site using their phone camera, then pulls up detailed information including compatibility, use cases, essential functions, available materials, and sizing. Designed for newcomers and veterans alike to make part identification faster and error-free in the field.
 
 - **Stack:** React · PWA · Camera API · Mobile-First Design
 - **Focus:** Blue collar tech, part identification, field usability
@@ -87,29 +94,43 @@ A PWA-first mobile tool built for the trades — plumbing, heating, boiler, and 
 
 ---
 
+### 07 · Etro — Open Source Contribution
+
+**Role:** Solo Contributor
+
+Contributed to **Etro**, an open-source TypeScript browser video-editing framework. Implemented a `toJSON()`/`fromJSON()` serialization system across Movie, layer, and effect classes — enabling full export and restore of video project state. PR merged into `etro-js:master` by the maintainer.
+
+- **Stack:** TypeScript · Open Source
+- **Focus:** Serialization, video framework architecture, open-source contribution
+- [View Repository](https://github.com/etro-js/etro)
+
+---
+
 ## Skills
 
-| Category | Technologies |
-|---|---|
-| **Frontend** | HTML · CSS · JavaScript · React |
-| **Backend** | Node.js · Express · REST APIs |
-| **Other** | Python · Git · GitHub · Agile |
-| **Soft Skills** | Team Collaboration · Problem Solving · Communication |
+| Category        | Technologies                                                              |
+| --------------- | ------------------------------------------------------------------------- |
+| **Frontend**    | HTML · CSS · JavaScript · TypeScript · React                              |
+| **Backend**     | Node.js · Express · Python · FastAPI · REST APIs                          |
+| **AI & Tools**  | Claude / Anthropic API · Tavily API · Supabase · Netlify                  |
+| **Workflow**    | Git · GitHub · Agile/Sprint · WebRTC                                      |
+| **Soft Skills** | Team Collaboration · Problem Solving · Communication                      |
 
 ---
 
 ## How to Navigate
 
 Each project listed above links to its own GitHub repository. For projects where I am an **authorized collaborator** (not the repo owner), the link points directly to the team repository where my contributions are recorded in the commit history.
-https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio
 
+🌐 Live Portfolio: [https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio](https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio)
 
 ---
 
 ## Connect
 
 - GitHub: [@G3RRYGL3Z](https://github.com/G3RRYGL3Z)
+- LinkedIn: [garygonzalezdev](https://linkedin.com/in/garygonzalezdev)
 
 ---
 
-*Built with purpose during Pursuit L2 · 2026*
+*Built with purpose during Pursuit L2/L3 · 2026*
