@@ -1,6 +1,6 @@
 # Gary | Pursuit L2/L3 Portfolio
 
-> Full-stack developer portfolio showcasing projects built during Pursuit L2/L3 — spanning web apps, React, Node/Express APIs, Python, TypeScript, and open-source contributions. Clean code. Real builds. Continuous growth.
+> Full-stack developer portfolio — 5 projects, all deployed, showcased, or shipped for real clients. React, TypeScript, Python, FastAPI, Claude API, PWA, and open-source contributions.
 
 ---
 
@@ -16,87 +16,74 @@
 
 ## About
 
-I'm Gary, a full-stack developer trained at **Pursuit L2/L3** — a rigorous fellowship focused on building job-ready engineers through project-based, collaborative learning. The projects in this portfolio represent real problems tackled with real code: from adding new features to existing platforms, to architecting AI-powered energy tools, to contributing to production open-source codebases.
+I'm Gary, a full-stack developer trained at **Pursuit L2/L3**. Every project in this portfolio has been deployed, showcased at Demo Day, or delivered to a real client — because that's the only standard that matters.
+
+My background in the trades and field operations means I build for people who actually have to use the thing. I've shipped AI-powered tools for real clients, co-built proprietary software running on active job sites, and contributed to open-source codebases with merged PRs.
 
 ---
 
 ## Projects
 
-### 01 · YouTube Shorts Clone
+### 01 · Hindcast
 
-**Role:** Team Collaborator
+**Role:** Team of 3 · Retrieval Pipeline Lead
+**Client:** Snarkitecture (NYC architecture & design firm, co-founded by Alex Mustonen)
+**Showcased:** Pursuit L3 Demo Day
 
-A feature-engineering project built on top of the YouTube Shorts platform. I designed and implemented a **clipping tool** that allows users to clip 3–5 second highlights from any Short and save or share them with friends and family.
+An AI-powered anti-trend research tool built for Snarkitecture. Hindcast takes a design brief and returns a structured reading of what's visually oversaturated in the brand and retail space — the moves everyone is making, the overused defaults, and the open ground where contrast lives. It is the opposite of a trend forecast.
 
-- **Stack:** HTML · CSS · JavaScript
-- **Focus:** Feature addition, video tooling, UX
-- [View Repository](https://github.com/G3RRYGL3Z/YouTube-shorts-clone)
+**My contribution:** Built the full retrieval pipeline — manually curated a 140-image seed corpus spanning the sneaker/streetwear and contemporary fashion verticals, and integrated the Tavily API for live web retrieval to augment the corpus in real time. Claude extracts design signal attributes from each retrieved image and synthesizes named saturation patterns for the client.
 
----
-
-### 02 · AI-Grid Orchestrator
-
-**Role:** Team Collaborator (Authorized)
-
-A renewable energy application targeting the **Smart Grid Infrastructure** sector. The app acts as an intelligent "dimmer switch" for the power grids of Texas and Maine — designed to prevent blackouts, reduce natural gas dependency, and lower energy costs for citizens.
-
-- **Stack:** Full-Stack · AI / ML · Smart Grid Technologies
-- **Focus:** Renewable energy, infrastructure, AI decision-making
-- [View Repository](https://github.com/ibrahimadiallo-byte/AI-Grid-Infrastructure)
+- **Stack:** Python · FastAPI · Claude / Anthropic API · Tavily API · TypeScript · Are.na
+- **Focus:** Retrieval pipeline, image corpus curation, AI signal extraction, client delivery
+- [View Repository](https://github.com/vic-aibuilder/hindcast)
 
 ---
 
-### 03 · Pursuit Agent 2.1
+### 02 · PC Builder Pro
 
-**Role:** Team Collaborator
+**Role:** Solo Project
+**Live Demo:** [pc-builderpro.netlify.app](https://pc-builderpro.netlify.app/)
 
-A UI overhaul of the existing Pursuit learning agent dashboard. My team rebuilt the interface to feature **expandable weekday cards** — each opening into a detailed view showing all tasks and assignments due for that day — plus a **notification system** alerting users to any missing or overdue work.
+A PC component compatibility checker built for first-time builders who don't know where to start. Handles compatibility logic, benchmark comparisons across components, and features an AI Build Assistant powered by the Anthropic API that guides users through picking the right parts for their budget and use case.
 
-- **Stack:** React · UI/UX · Dashboard Design
-- **Focus:** UI redesign, usability, notifications
-- [View Repository](https://github.com/G3RRYGL3Z/Pursuit-2.1)
-
----
-
-### 04 · Zoom Clone
-
-**Role:** Team Collaborator (Authorized)
-
-A deep architectural study and rebuild of **Zoom** — the goal was to fully deconstruct a successful market-leading SaaS application and reconstruct it to understand how it works. The core deliverable: a fully functional **1-on-1 video calling** feature using real-time web technologies.
-
-- **Stack:** Full-Stack · WebRTC · Real-Time Communication
-- **Focus:** SaaS architecture, real-time video, reverse engineering
-- [View Repository](https://github.com/jonelrichardson-spec/zoom-clone)
+- **Stack:** React · TypeScript · Vite · Anthropic API · Supabase · Netlify
+- **Focus:** AI integration, compatibility logic, beginner-friendly UX
+- [View Repository](https://github.com/G3RRYGL3Z/PC-Builder-Pro)
 
 ---
 
-### 05 · Subscription Sniper
+### 03 · LL88 AI Audit Tool
 
-**Role:** Team Collaborator (Authorized)
+**Role:** Co-Founder & Lead Developer · Gaia Energy Solutions
+**Status:** Proprietary Internal Tool — Repository Private
+**Deployed:** In active use on contracted job sites
 
-A personal finance application built to solve the problem of subscription overload. **Subscription Sniper** tracks all of a user's active subscriptions, surfaces unused ones, and helps them cancel services they no longer need — saving them real money every month.
+A proprietary field audit application built for **Gaia Energy Solutions**, an NYC-based energy compliance startup. Used on active job sites during NYC Local Law 88 audits — collecting light fixture counts, bulb types, room measurements, and photos while calculating Lighting Power Density (LPD) in real time. On audit completion, all data exports directly into a pre-formatted Excel spreadsheet, eliminating 1–2 hours of manual office entry per building. Available on mobile and desktop.
 
-- **Stack:** Full-Stack · Node.js · Express · Database
-- **Focus:** Personal finance, data management, user savings
-- [View Repository](https://github.com/OasisView/subscription-sniper)
+- **Focus:** Field data collection, real-time LPD calculation, Excel automation, mobile & desktop
+- **Impact:** Allows GES to audit more buildings per day and reduce back-office workload
+- *Proprietary — repository and deployment are private to protect client data and company IP.*
 
 ---
 
-### 06 · PartsDex
+### 04 · PartsDex
 
-**Role:** Team Collaborator
+**Role:** Concept & Lead · Team Collaboration
+**Live Demo:** [parts-dex-2.netlify.app](https://parts-dex-2.netlify.app/)
 
-A PWA-first mobile tool built for the trades — plumbing, heating, boiler, and HVAC. PartsDex allows users to identify parts on-site using their phone camera, then pulls up detailed information including compatibility, use cases, essential functions, available materials, and sizing. Designed for newcomers and veterans alike to make part identification faster and error-free in the field.
+A PWA-first mobile tool built for the trades — plumbing, heating, boiler, and HVAC. Workers identify parts on-site using their phone camera, pulling up compatibility info, use cases, materials, and sizing. The idea originated from firsthand experience entering the trades without a guide; I conceived and led the build from the ground up, with teammates contributing to execution.
 
-- **Stack:** React · PWA · Camera API · Mobile-First Design
+- **Stack:** React · Node.js · PWA · Camera API · Netlify
 - **Focus:** Blue collar tech, part identification, field usability
 - [View Repository](https://github.com/G3RRYGL3Z/PartsDex)
 
 ---
 
-### 07 · Etro — Open Source Contribution
+### 05 · Etro — Open Source Contribution
 
 **Role:** Solo Contributor
+**Status:** PR merged into production
 
 Contributed to **Etro**, an open-source TypeScript browser video-editing framework. Implemented a `toJSON()`/`fromJSON()` serialization system across Movie, layer, and effect classes — enabling full export and restore of video project state. PR merged into `etro-js:master` by the maintainer.
 
@@ -110,17 +97,17 @@ Contributed to **Etro**, an open-source TypeScript browser video-editing framewo
 
 | Category        | Technologies                                                              |
 | --------------- | ------------------------------------------------------------------------- |
-| **Frontend**    | HTML · CSS · JavaScript · TypeScript · React                              |
+| **Frontend**    | HTML · CSS · JavaScript · TypeScript · React · Vite                       |
 | **Backend**     | Node.js · Express · Python · FastAPI · REST APIs                          |
 | **AI & Tools**  | Claude / Anthropic API · Tavily API · Supabase · Netlify                  |
-| **Workflow**    | Git · GitHub · Agile/Sprint · WebRTC                                      |
-| **Soft Skills** | Team Collaboration · Problem Solving · Communication                      |
+| **Workflow**    | Git · GitHub · Agile/Sprint · WebRTC · Excel Automation                   |
+| **Languages**   | English (fluent) · Spanish (fluent)                                       |
 
 ---
 
 ## How to Navigate
 
-Each project listed above links to its own GitHub repository. For projects where I am an **authorized collaborator** (not the repo owner), the link points directly to the team repository where my contributions are recorded in the commit history.
+Each project links to its GitHub repo and/or live demo where available. The LL88 AI Audit Tool is proprietary — repo and deployment are private to protect client data and company IP.
 
 🌐 Live Portfolio: [https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio](https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio)
 
