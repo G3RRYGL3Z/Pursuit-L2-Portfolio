@@ -1,6 +1,6 @@
 # Gary | Pursuit L2/L3 Portfolio
 
-> Full-stack developer portfolio — 5 projects, all deployed, showcased, or shipped for real clients. React, TypeScript, Python, FastAPI, Claude API, PWA, and open-source contributions.
+> AI Product Builder portfolio — 5 projects, all deployed, showcased, or shipped for real clients. React, TypeScript, Python, FastAPI, Claude API, PWA, and open-source contributions.
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm Gary, a full-stack developer trained at **Pursuit L2/L3**. Every project in this portfolio has been deployed, showcased at Demo Day, or delivered to a real client — because that's the only standard that matters.
+I'm Gary, an AI Product Builder trained at **Pursuit L2/L3**. Every project in this portfolio has been deployed, showcased at Demo Day, or delivered to a real client — because that's the only standard that matters.
 
 My background in the trades and field operations means I build for people who actually have to use the thing. I've shipped AI-powered tools for real clients, co-built proprietary software running on active job sites, and contributed to open-source codebases with merged PRs.
 
