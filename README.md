@@ -1,4 +1,4 @@
-# Gary | Pursuit L2/L3 Portfolio
+# Gary | Pursuit Portfolio
 
 > AI Product Builder portfolio — 5 projects, all deployed, showcased, or shipped for real clients. React, TypeScript, Python, FastAPI, Claude API, PWA, and open-source contributions.
 
