@@ -109,7 +109,7 @@ Contributed to **Etro**, an open-source TypeScript browser video-editing framewo
 
 Each project links to its GitHub repo and/or live demo where available. The LL88 AI Audit Tool is proprietary — repo and deployment are private to protect client data and company IP.
 
-🌐 Live Portfolio: [https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio](https://G3RRYGL3Z.github.io/Pursuit-L2-Portfolio)
+🌐 Live Portfolio: (https://g3rrygl3z.github.io/Pursuit-Portfolio/)
 
 ---
 
